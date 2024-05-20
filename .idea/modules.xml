@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pillalarm.iml" filepath="$PROJECT_DIR$/pillalarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/pillalarm_android.iml" filepath="$PROJECT_DIR$/android/pillalarm_android.iml" />
+    </modules>
+  </component>
+</project>
